@@ -18,7 +18,7 @@ Install ventoy to USB
 [https://www.ventoy.net/en/doc_start.html](https://www.ventoy.net/en/doc_start.html) 
 
 You should now have two drives mounted on your PC  
-![](/home/ryan/Pictures/sddb_ventoy1.png) 
+![](images/sddb_image01.png) 
 
 Copy the windows and gparted ISOs directly to the 'Ventoy' mounted disk  
 If you downloaded the Steam Deck recovery image extract it and place the .img file on the same Ventoy volume.  
