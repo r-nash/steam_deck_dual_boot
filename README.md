@@ -10,6 +10,7 @@ USB-C thumb drive (or usb drive with usb-c hub/adapter)
 - [gparted](https://gparted.org/download.php) (latest amd64 image)
 - [windows10](https://www.microsoft.com/en-us/software-download/windows10ISO) 
 - [Steam Deck recovery image](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3)  (optional)
+- [Steam Deck Windows drivers](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8) 
 
 ## PC Steps
 
